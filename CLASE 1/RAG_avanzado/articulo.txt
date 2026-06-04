@@ -1,0 +1,11 @@
+Python es un lenguaje de programación muy utilizado en ciencia de datos.
+
+Node.js permite ejecutar JavaScript del lado del servidor.
+
+MongoDB es una base de datos NoSQL orientada a documentos.
+
+React es una biblioteca para construir interfaces de usuario.
+
+Express es un framework para desarrollar APIs con Node.js.
+
+ChromaDB es una base de datos vectorial utilizada en sistemas RAG.
