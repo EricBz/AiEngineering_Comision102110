@@ -1,0 +1,11 @@
+{
+    "question": "que es langgraph?",
+    "retrieved_docs": [
+        "LangGraph permite construir agentes basados en grafos de estado y manejar persistencia.",
+        "La persistencia permite almacenar checkpoints para recuperar procesos interrumpidos.",
+        "Los guardrails limitan el comportamiento del agente y previenen errores operativos."
+    ],
+    "answer": "LangGraph permite construir agentes basados en grafos de estado y manejar persistencia.",
+    "attempts": 0,
+    "finished": false
+}

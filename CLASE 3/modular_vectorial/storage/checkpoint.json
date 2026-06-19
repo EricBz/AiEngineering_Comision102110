@@ -1,0 +1,10 @@
+{
+    "question": "como va estar el clima hoy?",
+    "retrieved_docs": [
+        "Los guardrails son mecanismos que limitan el comportamiento del agente,\nevitando bucles infinitos o acciones inseguras.\n\nChroma es una base de datos vectorial que almacena embeddings y permite\nrealizar búsquedas por similitud semántica.",
+        "LangGraph es un framework para crear agentes basados en grafos de estado.\nPermite modelar transiciones, persistencia y flujos iterativos.\n\nRetrieval-Augmented Generation (RAG) combina recuperación de información\ncon modelos de lenguaje para generar respuestas fundamentadas.\n\nLa persistencia mediante checkpoints permite recuperar un proceso\ninterrumpido sin perder el estado previo."
+    ],
+    "answer": "El contexto proporcionado no contiene información sobre el clima.",
+    "attempts": 0,
+    "finished": false
+}
