@@ -1,0 +1,10 @@
+{
+    "question": "que es langgraph?",
+    "retrieved_docs": [
+        "LangGraph es un framework para crear agentes basados en grafos de estado.\nPermite modelar transiciones, persistencia y flujos iterativos.\n\nRetrieval-Augmented Generation (RAG) combina recuperación de información\ncon modelos de lenguaje para generar respuestas fundamentadas.\n\nLa persistencia mediante checkpoints permite recuperar un proceso\ninterrumpido sin perder el estado previo.",
+        "Los guardrails son mecanismos que limitan el comportamiento del agente,\nevitando bucles infinitos o acciones inseguras.\n\nChroma es una base de datos vectorial que almacena embeddings y permite\nrealizar búsquedas por similitud semántica."
+    ],
+    "answer": "LangGraph es un framework para crear agentes basados en grafos de estado. Permite modelar transiciones, persistencia y flujos iterativos.",
+    "attempts": 0,
+    "finished": false
+}

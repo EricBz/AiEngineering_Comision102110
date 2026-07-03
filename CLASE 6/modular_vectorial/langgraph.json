@@ -1,0 +1,6 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "mi_agente": "./main.py:app"
+  }
+}

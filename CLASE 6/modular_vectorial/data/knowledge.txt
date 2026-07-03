@@ -1,0 +1,14 @@
+LangGraph es un framework para crear agentes basados en grafos de estado.
+Permite modelar transiciones, persistencia y flujos iterativos.
+
+Retrieval-Augmented Generation (RAG) combina recuperación de información
+con modelos de lenguaje para generar respuestas fundamentadas.
+
+La persistencia mediante checkpoints permite recuperar un proceso
+interrumpido sin perder el estado previo.
+
+Los guardrails son mecanismos que limitan el comportamiento del agente,
+evitando bucles infinitos o acciones inseguras.
+
+Chroma es una base de datos vectorial que almacena embeddings y permite
+realizar búsquedas por similitud semántica.
