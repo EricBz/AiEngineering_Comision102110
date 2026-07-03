@@ -1,0 +1,14 @@
+# Conectores principales de LangChain y Google Gemini
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-google-genai>=2.0.0
+
+# Ecosistema oficial de Testing y Evaluación de LangChain (Actualizado 2026)
+langsmith>=0.3.0
+openevals>=0.1.0
+
+# Herramientas de pruebas locales y automatización
+pytest>=9.0.0
+python-dotenv>=1.0.0
+pytest-rerunfailures>=15.0
+pydantic>=2.10.0
